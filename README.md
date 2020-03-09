@@ -1,8 +1,11 @@
-# React Testlab
+# Named grid section problem
 
-React starter with typescript and webpack with babel
+## Getting started
 
-This is intended as a playground for testing out ideas.
+```powershell
+yarn
+yarn start
+```
 
 ## Disclaimer
 

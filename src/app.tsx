@@ -15,7 +15,7 @@ const App: FunctionComponent = () => (
     <Header>This is the header</Header>
     <Content />
 
-    {/* <Sidebar>This is where the sidebar should be</Sidebar> */}
+    <Sidebar>This is where the sidebar should be</Sidebar>
 
     <Footer>This is the footer</Footer>
   </AppContainer>

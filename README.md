@@ -7,8 +7,6 @@ yarn
 yarn start
 ```
 
-## Disclaimer
+# Problem
 
-<aside class="warning">
-This is not inteded to used for production, and is not set up in a way I would for a production app.
-</aside>
+The `Sidebar` in the `Content` component should be displayed where `Sidebar` in the `App` component (this Sidebar should be removed) is displayed
